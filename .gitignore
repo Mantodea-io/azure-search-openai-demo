@@ -145,5 +145,7 @@ cython_debug/
 npm-debug.log*
 node_modules
 static/
+infra/main.parameters-dev.json
+
 
 data/*.md5
