@@ -18,10 +18,10 @@ class ChatUser(HttpUser):
                     {
                         "content": random.choice(
                             [
-                                "What is included in my Northwind Health Plus plan that is not in standard?",
-                                "What does a Product Manager do?",
-                                "What happens in a performance review?",
-                                "Whats your whistleblower policy?",
+                                "Why did the Commission propose a new NIS Directive?",
+                                "How has the COVID-19 crisis influenced the new Directive?",
+                                "Which sectors and types of entities will the NIS2 cover?",
+                                "How will the NIS2 strengthen and streamline security requirements?",
                             ]
                         ),
                         "role": "user",
