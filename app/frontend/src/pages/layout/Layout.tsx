@@ -5,7 +5,6 @@ import github from "../../assets/github.svg";
 import styles from "./Layout.module.css";
 
 import { useLogin } from "../../authConfig";
-import { useLogin } from "../../authConfig";
 
 import { LoginButton } from "../../components/LoginButton";
 
